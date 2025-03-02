@@ -1,0 +1,1 @@
+Otro ejercicio que he hecho por cuenta propia que pretende mezclar conceptos como: Herencia,clases abstractas,Excepciones,Listas,Comparables,Interfaces,ExpresionesRegulares y demás sistemas que he estado practicando en clases
